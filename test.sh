@@ -7,6 +7,4 @@
 # @Description:
 # @History:
 #**************************************************************
-
-echo test
-echo test1
+date
